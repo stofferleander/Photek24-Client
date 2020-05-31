@@ -1,8 +1,8 @@
 {
-	"name": "io.photek24.krunker.desktop",
-	"version": "0.0.2-photek24.6",
+	"name": "io.custom.krunker.desktop",
+	"version": "1.8.3-custom.6",
 	"description": "Customized Desktop Client For Krunker",
-	"author": "Stoffer_06 And Photek24",
+	"author": "Stoffer06",
 	"main": "app/main.js",
 	"repository": "github:stofferleander/Photek24-Client",
 	"license": "MIT",
