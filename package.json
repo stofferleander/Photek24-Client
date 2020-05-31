@@ -1,10 +1,10 @@
 {
-	"name": "io.custom.krunker.desktop",
-	"version": "1.8.3-custom.6",
+	"name": "io.photek24.krunker.desktop",
+	"version": "0.0.1-photek24.6",
 	"description": "Customized Desktop Client For Krunker",
-	"author": "Mixaz",
+	"author": "Stoffer_06 And Photek24",
 	"main": "app/main.js",
-	"repository": "github:Mixaz017/Custom-Krunker-Client",
+	"repository": "github:stofferleander/Photek24-Client",
 	"license": "MIT",
 	"dependencies": {
 		"discord-rpc": "^3.1.1",

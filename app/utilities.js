@@ -484,7 +484,7 @@ class Utilities {
 		el.style.bottom = "0";
 		el.style.left = "20px";
 		el.style.fontSize = "6pt";
-		el.innerHTML = "Custom Krunker.io Client v" + remote.app.getVersion();
+		el.innerHTML = "Photek's Client v" + remote.app.getVersion();
 		gameUI.appendChild(el);
 	}
 
