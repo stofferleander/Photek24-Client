@@ -476,17 +476,7 @@ class Utilities {
 		}
 	}
 
-	createWatermark() {
-		const el = document.createElement("div");
-		el.id = "watermark";
-		el.style.position = "absolute";
-		el.style.color = "rgba(0,0,0, 0.3)";
-		el.style.bottom = "0";
-		el.style.left = "20px";
-		el.style.fontSize = "6pt";
-		el.innerHTML = "Photek's Client v" + remote.app.getVersion();
-		gameUI.appendChild(el);
-	}
+	
 
 	resetSettings() {
 		if (confirm("Are you sure you want to reset all your client addons? This will also refresh the page")) {
